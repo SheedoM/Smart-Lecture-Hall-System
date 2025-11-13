@@ -1,4 +1,5 @@
 Smart Lecture Hall Entry Management System
+
 One-line
 
 RFID + ESP32 system that lets lecturers toggle entry (open/lock), manage seats, and export attendance.
