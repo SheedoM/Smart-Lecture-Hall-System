@@ -1,0 +1,8 @@
+{
+  "wifi": {
+    "ssid": "YOUR_SSID",
+    "password": "YOUR_WIFI_PASSWORD"
+  },
+  "initialSeats": 30,
+  "maxAttendeesStored": 20
+}
